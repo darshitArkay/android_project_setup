@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Project setup</string>
+
+    <!--font names-->
+    <string name="cera_pro_bold">cera_pro_bold.otf</string>
+    <string name="cera_pro_light">cera_pro_light.otf</string>
+    <string name="cera_pro_regular">cera_pro_regular.otf</string>
+
+    <!--general strings-->
+    <string name="OK">OK</string>
+    <string name="internet_available">Internet available</string>
+    <string name="internet_not_available">Internet not available</string>
+    <string name="something_went_wrong">Something went wrong. Please try again</string>
+    <string name="something_went_wrong_medical_data">Something went wrong. While getting Medical data</string>
+    <string name="something_went_wrong_vitamin_data">Something went wrong. While getting Vitamin data</string>
+    <string name="please_wait">Please wait</string>
+    <string name="signin_in">Signin in</string>
+    <string name="registered_successful">Registered successful</string>
+    <string name="server_problem">Server problem</string>
+    <string name="logout_confirmation">Are you sure you want to logout?</string>
+    <string name="data_not_found">Data not found</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+</resources>

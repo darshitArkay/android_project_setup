@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toast_layout_success_root"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/green"
+    android:minHeight="@dimen/_40sdp"
+    android:orientation="horizontal"
+    android:padding="@dimen/_8sdp">
+
+    <com.arkay.projectsetup.customViews.CustomTextView
+        android:id="@+id/txt_toast_msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/_13ssp"
+        android:textStyle="bold"
+        app:textFont="@string/cera_pro_bold" />
+
+</RelativeLayout>
+
